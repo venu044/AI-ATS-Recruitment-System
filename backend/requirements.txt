@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+python-docx
+sqlalchemy
+psycopg[binary]
+python-dotenv
+google-genai
+pydantic

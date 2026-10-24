@@ -1,0 +1,24 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod
+*.pyc
+.venv/
+venv/
+
+# Uploaded resumes and user data
+backend/uploads/
+uploads/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
